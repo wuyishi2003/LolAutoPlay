@@ -606,7 +606,7 @@ namespace MyCSharp
                          "游戏加载上边框" + 游戏加载上边框.ToString() + "\r\n" +
                          "游戏加载下边框" + 游戏加载下边框.ToString() + "\r\n" +
                          "游戏内人物区域" + 游戏内人物区域.ToString() + "\r\n"
-                         , "英雄联盟LOL" + SaveFileName1 + ".txt");
+                         , "英雄联盟LOL" + SaveFileName1 + ".txt");   
         }
         private void toolStripMenuItem退出_Click(object sender, EventArgs e)
         {

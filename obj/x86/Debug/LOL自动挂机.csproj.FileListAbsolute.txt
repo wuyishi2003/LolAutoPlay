@@ -1,0 +1,10 @@
+H:\联盟+挂机\LolAutoPlay\bin\Debug\LOL自动挂机.exe.config
+H:\联盟+挂机\LolAutoPlay\bin\Debug\LOL自动挂机.xml
+H:\联盟+挂机\LolAutoPlay\bin\Debug\LOL自动挂机.exe
+H:\联盟+挂机\LolAutoPlay\bin\Debug\LOL自动挂机.pdb
+H:\联盟+挂机\LolAutoPlay\obj\x86\Debug\LOL自动挂机.csprojResolveAssemblyReference.cache
+H:\联盟+挂机\LolAutoPlay\obj\x86\Debug\MyCSharp.FormMain.resources
+H:\联盟+挂机\LolAutoPlay\obj\x86\Debug\LOL自动挂机.Properties.Resources.resources
+H:\联盟+挂机\LolAutoPlay\obj\x86\Debug\LOL自动挂机.csproj.GenerateResource.Cache
+H:\联盟+挂机\LolAutoPlay\obj\x86\Debug\LOL自动挂机.exe
+H:\联盟+挂机\LolAutoPlay\obj\x86\Debug\LOL自动挂机.pdb
